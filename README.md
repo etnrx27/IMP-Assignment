@@ -5,11 +5,11 @@ Develop a prototype to solve an opportunity statement that is affecting society.
 How might we help students stay engaged and focus, as well as give them a conducive environment to study in.
 
 # Materials
-IMP T45_Education_Assmt3_PowerPoint.pptx - Slides showcasing the prototype 
-IMP T45_Education_Assmt3_Prototype.docs - Physical representation of prototype and Documentation on prototype 
+1) IMP T45_Education_Assmt3_PowerPoint.pptx - Slides showcasing the prototype 
+2) IMP T45_Education_Assmt3_Prototype.docs - Physical representation of prototype and Documentation on prototype 
 
 # Contributors 
-Neo Rei Siang Edward
-Jia Ning
-Rachel Yeo
-Yan Shan
+1) Neo Rei Siang Edward
+2) Jia Ning
+3) Rachel Yeo
+4) Yan Shan
